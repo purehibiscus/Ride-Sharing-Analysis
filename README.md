@@ -1,4 +1,4 @@
-Since I don't have a MS Power BI work or school account, I have limitation in sharing the report. However, it can be downloaded via **https://drive.google.com/file/d/1aenX2D04yoL2YpgIyUe4FdQeCOH1Z0rD/view?usp=drive_link** and opened on Power BI desktop
+Because I don't have a MS Power BI work or school account, I have limitation in sharing the dashboard report. However, the user can download it via **https://drive.google.com/file/d/1aenX2D04yoL2YpgIyUe4FdQeCOH1Z0rD/view?usp=drive_link** and view it on Power BI desktop
 
 
 2024-2025 Global Ride Sharing Project Report
