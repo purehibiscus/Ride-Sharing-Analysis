@@ -1,3 +1,6 @@
+Since I don't have a work or school account, I have limitation in sharing the report. However, it can be downloaded via **https://drive.google.com/file/d/1aenX2D04yoL2YpgIyUe4FdQeCOH1Z0rD/view?usp=drive_link** and opened on Power BI desktop
+
+
 2024-2025 Global Ride Sharing Project Report
  
 Title: Analyzing Global Ride Sharing dataset for 2024-2025 to discover insights, patterns and correlations to drive business goals
