@@ -1,4 +1,6 @@
-Because I don't have a MS Power BI work or school account, I have limitation in sharing the dashboard report. However, the user can download it via **https://drive.google.com/drive/folders/1IrnEqYQ8DwhyJx8JTCWCvaLsvbV20E3J?usp=drive_link** and view it on Power BI desktop
+**Note:**  This Project documentations, processes and files can be viewed through this Google Drive link and the .pbix file can be downlaoded and viewed via Power BI desktop App. **https://drive.google.com/drive/folders/1IrnEqYQ8DwhyJx8JTCWCvaLsvbV20E3J?usp=drive_link**
+
+
 
 
 2024-2025 Global Ride Sharing Project Report
